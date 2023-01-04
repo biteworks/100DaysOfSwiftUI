@@ -7,5 +7,11 @@
         <page name='Day-3 Enums'/>
         <page name='Day-4 Type annotations'/>
         <page name='Day-4 Checkpoint'/>
+        <page name='Day-5 Conditions'/>
+        <page name='Day-5 Switch statements'/>
+        <page name='Day-5 Multiple Conditions'/>
+        <page name='Day-5 ternary conditional operator'/>
+        <page name='Day-6 Loops'/>
+        <page name='Day-6 While loops'/>
     </pages>
 </playground>
