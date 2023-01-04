@@ -13,5 +13,9 @@
         <page name='Day-5 ternary conditional operator'/>
         <page name='Day-6 Loops'/>
         <page name='Day-6 While loops'/>
+        <page name='Day-6 Loops break and continue'/>
+        <page name='Day-6 Checkpoint'/>
+        <page name='Day-7 Functions'/>
+        <page name='Http_Get_Test'/>
     </pages>
 </playground>
