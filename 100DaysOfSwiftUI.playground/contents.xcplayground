@@ -16,6 +16,8 @@
         <page name='Day-6 Loops break and continue'/>
         <page name='Day-6 Checkpoint'/>
         <page name='Day-7 Functions'/>
-        <page name='Http_Get_Test'/>
+        <page name='Day-7 Return values'/>
+        <page name='Day-7 Return muliple values'/>
+        <page name='Day-7 Customize parameter labels'/>
     </pages>
 </playground>
