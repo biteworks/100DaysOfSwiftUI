@@ -19,5 +19,8 @@
         <page name='Day-7 Return values'/>
         <page name='Day-7 Return muliple values'/>
         <page name='Day-7 Customize parameter labels'/>
+        <page name='Day-8 Provide default values for parameters'/>
+        <page name='Day-8 handle errors in functions'/>
+        <page name='Day-8 Checkpoint'/>
     </pages>
 </playground>
