@@ -22,5 +22,9 @@
         <page name='Day-8 Provide default values for parameters'/>
         <page name='Day-8 handle errors in functions'/>
         <page name='Day-8 Checkpoint'/>
+        <page name='Day-9 Create and use closures'/>
+        <page name='Day-9 Trailing closures and shorthand syntax'/>
+        <page name='Day-9 Accept functions as parameters'/>
+        <page name='Day-9 Checkpoint'/>
     </pages>
 </playground>
