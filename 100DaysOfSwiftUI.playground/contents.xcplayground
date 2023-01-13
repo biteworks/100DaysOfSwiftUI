@@ -26,5 +26,9 @@
         <page name='Day-9 Trailing closures and shorthand syntax'/>
         <page name='Day-9 Accept functions as parameters'/>
         <page name='Day-9 Checkpoint'/>
+        <page name='Day-10 Structs'/>
+        <page name='Day-10 Compute property values '/>
+        <page name='Day-10 Take action when a property changes'/>
+        <page name='Day-10 Custom initializers'/>
     </pages>
 </playground>

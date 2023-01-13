@@ -76,7 +76,7 @@ let captainFirstTeam = team.sorted(by: { (name1: String, name2: String) -> Bool 
 
 print(captainFirstTeam)
 
-let filterTeamByNameLength = team.filter { (name: String) in
+let filterTeamByNameLength = team.filter { name in
     if name.count > 6 {
         return true
     }
